@@ -16,17 +16,18 @@
 ---
 
 ## 📋 Table of Contents
-* [📝 Create Kubernetes Manifests](#-create-kubernetes-manifests)
-* [📋 Table of Contents](#-table-of-contents)
-* [🎯 Overview](#-overview)
-* [🛠️ Tools and Concepts](#️-tools-and-concepts)
-* [💭 Project Reflection](#-project-reflection)
-* [Project Setup](#project-setup)
-* [🚀 Deployment Manifest](#-deployment-manifest)
-* [🌐 Service Manifest](#-service-manifest)
-* [📦 The Power of Annotations Deployment Manifest](#-the-power-of-annotations-deployment-manifest)
-* [🎓 Key Learnings](#-key-learnings)
-* [Conceptual Understanding Architecture Overview](#conceptual-understanding-architecture-overview)
+- [📝 Create Kubernetes Manifests](#-create-kubernetes-manifests)
+- [📋 Table of Contents](#-table-of-contents)
+- [🎯 Overview](#-overview)
+- [🛠️ Tools and Concepts](#️-tools-and-concepts)
+- [💭 Project Reflection](#-project-reflection)
+- [Project Setup](#project-setup)
+- [📄 Manifest Files (START HERE)](#-manifest-files-start-here)
+- [🚀 Deployment Manifest](#-deployment-manifest)
+- [🌐 Service Manifest](#-service-manifest)
+- [📦 The Power of Annotations Deployment Manifest](#-the-power-of-annotations-deployment-manifest)
+- [🎓 Key Learnings](#-key-learnings)
+- [Conceptual Understanding Architecture Overview](#conceptual-understanding-architecture-overview)
 
 ---
 

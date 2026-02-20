@@ -145,7 +145,23 @@ If you are setting up this project for the first time, keep these troubleshootin
 
 # 🌐 Accessing the Backend
 
-Once the deployment is verified, access your application based on the Service type:
+## Introduction 
+
+<div align="center">
+  <img src="assets/hacker news.png" alt="NodePort Access" width="700" />
+</div>
+
+### Breakdown 
+[Hacker News](https://news.ycombinator.com/news) is an online platform and community where you can read and discuss tech-related news and industry trends.
+
+### To Do 
+backend app i'm pulling from GitHub is a tool that:
+  1. Takes a user’s input (e.g. aws) from Hacker News.
+  2. Runs the input as a search query in Search Hacker News.
+  3. Processes the search results and formats them into JSON data.
+
+
+Once the deployment is verified, i'm accessing the application based on the Service type:
 
 ### Using NodePort
 

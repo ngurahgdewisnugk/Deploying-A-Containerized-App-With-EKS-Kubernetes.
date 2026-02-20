@@ -88,7 +88,7 @@ In this project, I cloned the backend application code from GitHub, built a Dock
 
 ### Setting Up the EKS Cluster
 
-**Step-by-step process:** [reference here](<../01 - Launch a Kubernetes Cluster/01 - Launch a Kubernetes Cluster.md>))
+**Step-by-step process:** [reference here](<../01 - Launch a Kubernetes Cluster/01 - Launch a Kubernetes Cluster.md>)
 
 1. 🖥️ Launched and connected to an EC2 instance
 2. 📥 Installed the `eksctl` command-line tool
