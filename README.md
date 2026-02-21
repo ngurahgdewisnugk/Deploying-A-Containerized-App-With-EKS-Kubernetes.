@@ -30,7 +30,7 @@
 
 # 🎯 Introduction
 
-This project demonstrates the deployment of a **live, scalable Flask backend application** using **Amazon EKS (Elastic Kubernetes Service)**. The primary goal is to build a foundational understanding of Cloud Native Orchestration about containarized application from scratch to production-ready, Kubernetes-driven infrastructure.
+This project demonstrates the deployment of a **live, scalable Flask backend application** using **Amazon EKS (Elastic Kubernetes Service)**. The primary goal is to build a foundational understanding of Cloud Native Orchestration about containarized application from production-ready to go-live, Kubernetes-driven infrastructure.
 
 ---
 ### 🎓 Learning Objectives
@@ -216,4 +216,5 @@ This project demonstrates **High Availability** and resilience through Kubernete
 | 🔄 **Self-Healing** | Automatically restarts failed containers |
 | 📈 **Auto-Scaling** | Scales from 1 to 3+ nodes based on traffic demand |
 | 🎯 **Load Balancing** | Distributes traffic evenly across healthy pods |
+
 
